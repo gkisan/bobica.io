@@ -21,6 +21,4 @@ and safe process flow for the industrial presses in real time featuring Overall 
 There is no delay in receiving the information related to the breakdown event. Get the complete information anywhere and anytime.
 Improvement of Manufacturing Operations through a Lean Management. BOBICA KM-C-IIMSS 4.0 collect and combine data from various sources. We provide a strong foundation around which manufacturers can build the Industry 4.0.
 
-New data flows of autonomous entities. It is critical to ensure that the enterprise systems respond effectively. Improvement of Manufacturing Operations through a Lean Management. Lean is about the elimination of waste or activities which add no value to the process. 
-
-There is no delay in receiving the information related to the breakdown event. Get the better view and get the complete information anywhere and anytime
+New data flows of autonomous entities. It is critical to ensure that the enterprise systems respond effectively. Improvement of Manufacturing Operations through a Lean Management. Lean is about the elimination of waste or activities which add no value to the process. There is no delay in receiving the information related to the breakdown event. Get the better view and get the complete information anywhere and anytime
