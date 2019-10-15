@@ -15,7 +15,7 @@ $$$$$$$/   $$$$$$/  $$$$$$$/  $$/  $$$$$$$/  $$$$$$$/             $$/ $$/  $$$$$
                
 -->		
 
-KM-C introduces BOBICA KMC-IIMMSS 4.0, comprehensive Industrial IoT Monitoring System Solutions focused on creating a stable
+KM-C introduces BOBICA KMC-IIMSS 4.0, comprehensive Industrial IoT Monitoring System Solutions focused on creating a stable
 and safe process flow for the industrial presses in real time featuring Overall Equipment Efficiency (OEE) Monitoring, Condition Monitoring, Smart Diagnostics, Power Monitoring and a Track & Trace log system.
 
 There is no delay in receiving the information related to the breakdown event. Get the complete information anywhere and anytime.
